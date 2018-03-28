@@ -1,0 +1,16 @@
+Day:
+04:11:2017
+Time:
+11:05
+Company:
+NSHF
+Requests:
+Christina Holtzer, german, hifi, fremium, 7
+Andrej Hlavac, czech, phones, fremium, 9
+Dulce Chaves, portuguese, laptops, fremium, 15
+Otavio Santiago, portuguese, laptops, fremium, 15
+Dina Silveira, portuguese, phones, fremium, 9
+Rafael Kaluza, slovenian, laptops, fremium, 13
+Sabina Rosario, portuguese, laptops, fremium, 10
+Nuno Rodrigues, portuguese, laptops, fremium, 12
+Feliciano Santos, portuguese, phones, fremium, 12

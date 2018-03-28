@@ -1,0 +1,15 @@
+Day:
+04:11:2017
+Time:
+11:05
+Company:
+NSHF
+Operators:
+Atilio Moreno, portuguese, (laptops), 10:58, 104
+Leticia Ferreira, portuguese, (laptops), 11:03, 15
+Ruth Falk, german, (phones; hifi), 11:06, 150
+Marianne Thibault, french, (phones), 11:09, 230
+Mariana Santana, portuguese, (phones), 11:11, 230
+Beate Adenauer, german, (hifi; phones), 11:12, 140
+Romana Cerveny, czech, (phones), 11:13, 213
+Zdenka Sedlak, czech, (phones), 11:13, 56
